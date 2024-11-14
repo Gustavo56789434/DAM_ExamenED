@@ -1,2 +1,1 @@
-Ejercicio7
-Ejercicio12
+Ejercicio7 Ejercicio12
